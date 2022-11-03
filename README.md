@@ -24,3 +24,5 @@
 |--------|--------|
 |Wiersz1|Wiersz2|
 |Wiersz3|Wiersz4|
+
+![Picture.png](Picture.png)
